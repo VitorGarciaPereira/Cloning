@@ -1,5 +1,10 @@
-public class CloneTest {
 
+import org.junit.Test;
+
+public class CloneTest {
+	
+	@Test
+	
 	public static void main(String[] args){
 		
 		Employee emp1 = new Employee ("Martinez", "Anthony");
