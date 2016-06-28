@@ -1,9 +1,9 @@
 
-import org.junit.Test;
+//import org.junit.Test;
 
 public class CloneTest {
 	
-	@Test
+	
 	
 	public static void main(String[] args){
 		
