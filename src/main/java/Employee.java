@@ -1,3 +1,9 @@
+/** This class represents an employee
+ * 
+ * @author Vitor
+ * @version 1.0
+ */
+
 public class Employee implements Cloneable{
 
 		private String lastName;
@@ -6,6 +12,11 @@ public class Employee implements Cloneable{
 		
 		public Address address;
 		
+		/**
+		 * Creates an employee with the specific name
+		 * @param lastName
+		 * @param firstName
+		 */
 		public Employee(String lastName, String firstName){
 			
 			this.lastName = lastName;
